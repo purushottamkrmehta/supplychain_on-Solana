@@ -161,7 +161,7 @@ const Field: FC = () => {
                     onChange={handleLotNoChange}
                     placeholder="Lot Number"
                 />
-                <input type="text" name="live_location" id="live_location" />
+                
 
                 <button
                     onClick={() => {
